@@ -14,7 +14,7 @@
 #include <linux/spinlock.h>
 #include <linux/wait.h>
 #include <linux/mutex.h>
-#include <media/videobuf-dma-sg.h>
+#include <media/videobuf2-dma-sg.h>
 #include <media/v4l2-device.h>
 
 struct fthd_fmt {
